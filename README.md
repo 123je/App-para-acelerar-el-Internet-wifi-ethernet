@@ -1,2 +1,20 @@
 # App-para-acelerar-el-Internet-wifi-ethernet
-"Es una aplicación de escritorio desarrollada en Windows Forms con C#, diseñada con una amplia personalización. 
+"Es una aplicación de escritorio desarrollada en Windows Forms con C#, diseñada con una amplia personalización. Entre los ajustes disponibles, se incluyen:
+
+Cambio personalizado de cursor.
+Efecto 'hover' en los botones.
+Sonido al activar el efecto 'hover'.
+Efecto de clic en los botones.
+Pantalla de carga.
+Fondo dinámico.
+Profundización en servicios de Windows 10.
+Permisos de administrador.
+Entre otras características.
+La aplicación realiza las siguientes funciones para mejorar el rendimiento de la conexión a Internet:
+
+Vacía la memoria caché de DNS.
+Limpia la carpeta TEMP del sistema.
+Limpia la carpeta %TEMP% del sistema.
+Desactiva el servicio de actualizaciones de Windows.
+Cambia de servidores DNS.
+Con estas acciones, se consigue un mejor rendimiento del Internet."
